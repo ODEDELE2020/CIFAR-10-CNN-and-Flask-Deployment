@@ -86,7 +86,7 @@ This demonstrates end-to-end deployment of a deep learning model.
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/MelihGulum/CIFAR-10-CNN-FLASK-Deployment.git
+https://github.com/ODEDELE2020/CIFAR-10-CNN-and-Flask-Deployment.git
 ```
 
 ### **2. Install Dependencies**
